@@ -3,6 +3,7 @@ html,
     font-weight: bolder;
     height: 100%;
     width: 100%;
+    padding: 20px;
   }
   body {
     background-color: #e6e6f9;
